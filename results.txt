@@ -1,0 +1,49 @@
+Interactive protocol with constant number of rounds
+1
+<=== General Benchmarks ===>
+Cpu time :=  0.00509505
+2
+<=== General Benchmarks ===>
+Cpu time :=  0.00928091
+4
+<=== General Benchmarks ===>
+Cpu time :=  0.01887097
+8
+<=== General Benchmarks ===>
+Cpu time :=  0.035513829999999996
+32
+<=== General Benchmarks ===>
+Cpu time :=  0.13727335999999998
+Interactive protocol with linear number of rounds
+1
+<=== General Benchmarks ===>
+Cpu time :=  0.02628317
+2
+<=== General Benchmarks ===>
+Cpu time :=  0.04764554000000001
+4
+<=== General Benchmarks ===>
+Cpu time :=  0.09714465
+8
+<=== General Benchmarks ===>
+Cpu time :=  0.19465673
+32
+<=== General Benchmarks ===>
+Cpu time :=  0.7629830400000001
+Non interactive protocol
+1
+<=== General Benchmarks ===>
+Cpu time :=  0.13882004
+2
+<=== General Benchmarks ===>
+Cpu time :=  0.28781779
+4
+<=== General Benchmarks ===>
+Cpu time :=  0.58402285
+8
+<=== General Benchmarks ===>
+Cpu time :=  1.23064842
+32
+<=== General Benchmarks ===>
+Cpu time :=  4.81868384
+
